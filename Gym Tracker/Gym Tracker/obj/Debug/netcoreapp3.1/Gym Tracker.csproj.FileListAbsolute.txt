@@ -1,0 +1,93 @@
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Gym Tracker.StaticWebAssets.xml
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Gym Tracker.exe
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Gym Tracker.deps.json
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Gym Tracker.runtimeconfig.json
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Gym Tracker.runtimeconfig.dev.json
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Gym Tracker.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Gym Tracker.pdb
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Gym Tracker.Views.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Gym Tracker.Views.pdb
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.csproj.AssemblyReference.cache
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.AssemblyInfoInputs.cache
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.AssemblyInfo.cs
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.csproj.CoreCompileInputs.cache
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.RazorAssemblyInfo.cache
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.RazorAssemblyInfo.cs
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\staticwebassets\Gym Tracker.StaticWebAssets.Manifest.cache
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\staticwebassets\Gym Tracker.StaticWebAssets.xml
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\scopedcss\bundle\Gym Tracker.styles.css
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.TagHelpers.input.cache
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.TagHelpers.output.cache
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.RazorCoreGenerate.cache
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.RazorTargetAssemblyInfo.cache
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.RazorTargetAssemblyInfo.cs
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.Views.pdb
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.csproj.CopyComplete
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.dll
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.pdb
+C:\Users\vincentdams\GymProject\Gym Tracker\Gym Tracker\obj\Debug\netcoreapp3.1\Gym Tracker.genruntimeconfig.cache
