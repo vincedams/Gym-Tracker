@@ -1,0 +1,59 @@
+﻿@model IEnumerable<Gym_Tracker.Models.Workout>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="WorkoutsList">
+            <div class="form-group">
+                <select name="Group">
+                    <option value="Chest/Triceps">Chest/Triceps</option>
+                    <option value="Back/Biceps">Back/Biceps</option>
+                    <option value="Legs/Abdominals">Legs/Abdominals</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Go" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Musclegroup)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Musclegroup)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

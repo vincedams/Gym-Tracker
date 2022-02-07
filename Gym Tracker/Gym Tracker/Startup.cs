@@ -1,4 +1,4 @@
-using Gym_Tracker.Data;
+﻿using Gym_Tracker.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -34,6 +34,9 @@ namespace Gym_Tracker
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             services.AddControllersWithViews();
             services.AddRazorPages();
+
+            services.AddDbContext<Gym_TrackerDBContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("Gym_TrackerDBContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

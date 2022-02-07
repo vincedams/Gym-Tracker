@@ -1,0 +1,22 @@
+﻿<h4>Workout</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="WorkoutsList">
+            <div class="form-group">
+                <select name="Group">
+                    <option value="Chest/Triceps">Chest/Triceps</option>
+                    <option value="Back/Biceps">Back/Biceps</option>
+                    <option value="Legs/Abdominals">Legs/Abdominals</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Go" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
